@@ -1,0 +1,9 @@
+ipykernel
+ipython
+jupyter
+matplotlib
+numpy==1.24.4
+tensorboardX
+tiktoken
+torch==1.11.0
+tqdm
